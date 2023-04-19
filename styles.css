@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+}
+
+
+html {
+    background-color: grey;
+    background-image: url(/wallpapers/rickandmortycliff.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+.nav-menu-1 {
+    border: solid;
+    border-width: 2px;
+    border-color: rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+    position: sticky;
+    top: 0px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.backicon {
+    width: 30px;
+    margin-top: 3px;
+    margin-left: 10px;
+}
+
+.usericon {
+    width: 30px;
+    margin-top: 3px;
+    margin-right: 10px;
+}
+
+.span-in-div {
+    align-self: center;
+    font-size: 25px;
+}
+
+.nav-menu-2 {
+    font-size: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+
+}
+
+.a1-in-nav2, .a2-in-nav2, .a3-in-nav2, .a4-in-nav2, .a5-in-nav2, .a6-in-nav2, .a7-in-nav2 {
+    border: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    padding: 4px;
+    text-decoration: none;
+    color: black;
+}

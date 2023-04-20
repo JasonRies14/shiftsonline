@@ -22,8 +22,7 @@ html {
 
 
 .nav-menu1 {
-    border: solid;
-    border-width: 2px;
+    border: 0;
     border-color: rgba(0, 0, 0, 0.1);
     display: flex;
     justify-content: space-between;

@@ -78,7 +78,50 @@ html {
     color: black;
     width: 100%;
     text-align: center;
+    transition: 0.25s ease-in-out;
 }
+
+.a2-in-nav2:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 20px 10px snow;
+    transform: scale(110%);
+}
+
+.a3-in-nav2:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 20px 10px snow;
+    transform: scale(110%);
+}
+
+
+.a4-in-nav2:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 20px 10px snow;
+    transform: scale(110%);
+}
+
+
+.a5-in-nav2:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 20px 10px snow;
+    transform: scale(110%);
+}
+
+
+.a6-in-nav2:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 20px 10px snow;
+    transform: scale(110%);
+}
+
+
+.a7-in-nav2:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 20px 10px snow;
+    transform: scale(110%);
+}
+
+
 
 .a7-in-nav2 {
     border: solid;
@@ -220,7 +263,7 @@ sup {
 }
 
 .span-for-time-of-day2{
-    margin-top: 1%;
+    margin-top: 3.5%;
     display: flex;
     justify-content: center;
     font-size: 100%;
@@ -228,7 +271,7 @@ sup {
 
 .section2 {
     height: 100%;
-    min-height: 100px;
+    min-height: 125px;
 }
 
 .a2-for-section-changer {
